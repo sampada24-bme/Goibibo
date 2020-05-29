@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 
-public class CustomUtil {
+public class CustomUtil1 {
 	
 	static Properties prop=new Properties();
 	
